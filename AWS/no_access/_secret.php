@@ -13,8 +13,8 @@
 
 // these variables are required to connect to the database mentioned above.
 // please fill these out with the correct information. Don't forget to change your passwords.
-    $db_user='mydb_user';
-    $db_password='P@ssW0rd';
+    $db_user='';       //username with access to a DB
+    $db_password='';   //paswword for the username
 
 //options for DB Connection
     $db_options = array(
