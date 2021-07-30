@@ -1,9 +1,3 @@
-CSCE 5550.070
-
-Summer 2021
-
-Rimma Shilkina
-
 <B>README</B>
 
 File listing:
@@ -31,8 +25,8 @@ To replicate this project, you would need:
 9.	Modify and save username and password for the user in the point 4.
 10.	Optional: configure Apache2 for TLS (you could use self-signed TLS certificates)
 11.	Optional: configure Apache2 to automatically redirect HTTP to HTTPS
-12. 	Use a browser and connect to the webserver and create users in the database: h[tt]p://your_server_url_or_IP/add_user.php
-13. 	Use URL h[tt]p://your_server_url_or_IP/ to access user_login.php
+12. 	Use a browser and connect to the webserver and create users in the database <h[tt]p://your_server_url_or_IP/add_user.php>
+13. 	Use URL <h[tt]p://your_server_url_or_IP/> to access user_login.php
 14.	Use usernames and passwords (created at point 12) to test the Website. 
 Note: Timeout for the user session is 1 minute. You would need to wait 1 minute before test another username and password.
 Note: URLs fragmented to prevent auto execution. Remove brackets [] from URLs.
