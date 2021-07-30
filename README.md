@@ -10,7 +10,7 @@ File listing:
 
 	AWS					- directory for files/directories copied to AWS server
 	|------->no_access			- directory for _secret.php
-		  |------->_secret.php		- php file for database connection parameters
+		|------->_secret.php		- php file for database connection parameters
 	|------->add_user.php			- add users into the database
 	|------->index.html			- index.html - redirects to user_login.php
 	|------->user_login.php			- performs user authentication
