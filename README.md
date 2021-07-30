@@ -1,21 +1,23 @@
 CSCE 5550.070
+
 Summer 2021
+
 Rimma Shilkina
 
-README
+<B>README</B>
 
 File listing:
 
 	AWS					- directory for files/directories copied to AWS server
 	|------->no_access			- directory for _secret.php
-		  |------->_secret.php	- php file for database connection parameters
-	|------->add_user.php		- add users into the database
+		  |------->_secret.php		- php file for database connection parameters
+	|------->add_user.php			- add users into the database
 	|------->index.html			- index.html - redirects to user_login.php
-	|------->user_login.php		- performs user authentication
-	|------->	user_page.php		- shows a message after successful authentication
+	|------->user_login.php			- performs user authentication
+	|------->user_page.php			- shows a message after successful authentication
 	project_db.mw				- MySQL Workbench file.Stores a model for the database
-	sql_script.sql			- SQL script to create a database.
-	README.txt				- this file
+	sql_script.sql				- SQL script to create a database.
+	README.txt (README.md)			- this file
 
 To replicate this project, you would need:
 1.	Linux server with Apache2, PHP, and MySQL. Ubuntu 20.04 is recommended.
